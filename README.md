@@ -101,3 +101,6 @@ It should look like this
 ![15](https://i.imgur.com/MKe9rTz.jpeg)
 
 Update the New Ticket Options and follow the steps above. 
+
+On the [next tutorial](https://github.com/VernonBootheITPro/osTicket--Lifecycle--Intake-Through-Resolution/blob/main/README.md), we'll create Tickets and showcase the Ticket Lifecycle.
+
